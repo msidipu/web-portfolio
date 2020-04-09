@@ -1,0 +1,23 @@
+h1{
+font-size: 50px;
+
+}
+body{
+    font-family: 'Girassol', cursive;
+}
+.friend{
+
+    color: blue;
+}
+.half{
+width: 10%;
+float: left;
+
+margin: 10%;
+padding: 5%;
+
+
+}
+.half img{
+    width: 150%;
+}
