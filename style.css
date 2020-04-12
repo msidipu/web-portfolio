@@ -25,7 +25,10 @@ h1{
     
 }
 
-.top{
-background-image: url("img/jhankar2.png");
-    background-repeat: no-repeat;
+.link-button{
+
+    text-decoration: none;
+    background-color: orange;
+    padding: 5px 2px;
+    border-radius: 10px;
 }
