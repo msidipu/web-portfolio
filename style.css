@@ -1,23 +1,21 @@
-h1{
-font-size: 50px;
-
-}
 body{
-    font-family: 'Girassol', cursive;
-}
-.friend{
-
-    color: blue;
-}
-.half{
-width: 10%;
-float: left;
-
-margin: 10%;
-padding: 5%;
-
+    font-family: 'Open Sans', sans-serif;
 
 }
-.half img{
-    width: 150%;
+h1{
+    font-size: 50px;
+
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+ width: 40%;
+ float: left;
+ margin-left: 5%;
+ padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
 }
